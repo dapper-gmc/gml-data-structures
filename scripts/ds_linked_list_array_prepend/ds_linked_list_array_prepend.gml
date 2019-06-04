@@ -1,3 +1,8 @@
+/// @func ds_linked_list_array_prepend(ls, x)
+/// @desc Prepend the specified element to a specified linked list
+/// @arg ls A linked list
+/// @arg x The element to prepend
+
 var _ls = argument0;
 var _x = argument1;
 
