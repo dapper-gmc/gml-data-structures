@@ -7,7 +7,7 @@
         
     ],
     "filterType": "GMScript",
-    "folderName": "graphs",
+    "folderName": "graph",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

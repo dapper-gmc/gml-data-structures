@@ -7,7 +7,7 @@
         
     ],
     "filterType": "GMScript",
-    "folderName": "maps",
+    "folderName": "map",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

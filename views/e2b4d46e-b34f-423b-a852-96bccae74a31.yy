@@ -7,7 +7,7 @@
         
     ],
     "filterType": "GMScript",
-    "folderName": "heaps",
+    "folderName": "heap",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
