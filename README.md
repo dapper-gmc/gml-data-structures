@@ -41,6 +41,10 @@ ds_linked_list_add(_ls, 0);
 
 #### Linked List (Using Built-In Lists as Nodes)
 
+## Trees
+
+### Binary Tree (Using Arrays as Nodes)
+
 # Notes
 
 - Due to variation in caching, the first or first several runs of any benchmark
