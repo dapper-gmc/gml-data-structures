@@ -2,7 +2,7 @@
 Per Niklaus Wirth, Algorithms + Data Structures = Programs. An appreciation and
 understanding of these fundamental building blocks is essential to writing
 performant code- especially in time-constrained environments like video game
-program.
+programming.
 
 To that end, this repository contains a GameMaker Studio 2 project that
 implements and benchmarks a variety of useful data structures and algorithms
