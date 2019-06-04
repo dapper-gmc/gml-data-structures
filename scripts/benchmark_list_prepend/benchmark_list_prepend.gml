@@ -1,0 +1,2 @@
+time_func(benchmark_linked_list_array_prepend);
+time_func(benchmark_linked_list_list_prepend);
