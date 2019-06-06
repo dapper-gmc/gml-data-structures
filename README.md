@@ -46,6 +46,12 @@ ds_linked_list_add(_ls, 0);
 
 ### Binary Tree (Using Arrays as Nodes)
 
+## Utility
+
+### Memory Manager
+
+#### Implicit First-Fit Manager (Using a Buffer for the Heap)
+
 # Notes
 
 - Due to variation in caching, the first or first several runs of any benchmark
