@@ -14,10 +14,11 @@ using GML.
 GML in particular provides a fun and challenging environment in which to
 develop data structures. In particular, it lacks lightweight objects (for the
 moment, anyway). However- it does have a few built-in data structures,
-including dynamic arrays and lists, which can be used similarly. Of course,
-using these structures in this way demands caution of any programmer so
-attempting; in absence of a formal way to an object to its type, or operations
-to data, one must lean on strong conventions to minimize error.
+including dynamic arrays and lists, as well as buffers, which can be used 
+similarly. Of course, using these structures in this way demands caution 
+of any programmer so attempting; in absence of a formal way to an object 
+to its type, or operations to data, one must lean on strong conventions 
+to minimize error.
 
 The result is reminescent of a functional programming style:
 
