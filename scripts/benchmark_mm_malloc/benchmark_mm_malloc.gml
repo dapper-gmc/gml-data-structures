@@ -1,0 +1,1 @@
+time_func(benchmark_ds_mm_implicit_malloc);

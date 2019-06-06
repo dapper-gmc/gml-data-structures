@@ -9,7 +9,8 @@
         "93df02a1-b197-4690-b3f2-43f42dd33e2f",
         "6ec4891e-371c-4c4b-b6ce-a87d13bcca9d",
         "23d5113b-a02f-47ba-9ef8-68663bfc78bb",
-        "2f6509a8-dc79-4fcd-8cf5-28e14ba3bef3"
+        "2f6509a8-dc79-4fcd-8cf5-28e14ba3bef3",
+        "2b2b9ff5-7a15-4b5b-9a11-562f791c2d37"
     ],
     "filterType": "GMScript",
     "folderName": "test",
