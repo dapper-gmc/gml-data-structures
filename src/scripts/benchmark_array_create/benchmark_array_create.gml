@@ -1,0 +1,1 @@
+var arr = array_create(100000, 1);
