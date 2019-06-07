@@ -25,10 +25,10 @@ The result is reminescent of a functional programming style:
 ```gml
 
 // Create list
-var _ls = ds_linked_list_create();
+var ls = ds_linked_list_create();
 
 // Add to list
-ds_linked_list_add(_ls, 0);
+ds_linked_list_add(ls, 0);
 
 ```
 
