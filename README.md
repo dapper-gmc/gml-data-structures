@@ -38,19 +38,21 @@ ds_linked_list_add(_ls, 0);
 
 ### Linked Lists
 
-#### Linked List (Using Arrays As Nodes)
+#### Linked List (Using Arrays As Nodes) (Partially Implemented)
 
-#### Linked List (Using Built-In Lists as Nodes)
+#### Linked List (Using Built-In Lists as Nodes) (Partially Implemented)
 
 ## Trees
 
-### Binary Tree (Using Arrays as Nodes)
+### Binary Tree (Using Arrays as Nodes) (Partially Implemented)
 
 ## Utility
 
 ### Memory Manager
 
-#### Implicit First-Fit Manager (Using a Buffer for the Heap)
+#### Implicit First-Fit Manager (Using a Buffer for the Heap) (Broken, Slow)
+
+#### Explicit First-Fit Manager (Using a Buffer for the Heap) (In Progress)
 
 # Notes
 
