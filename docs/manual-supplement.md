@@ -38,5 +38,7 @@ Grids are almost certainly backed by something akin to a 2D array.
 - It is currently unknown how script indices, array indices, object indices,
   etc., are currently stored. It's safest to treat them as 64-bit, unsigned
   integers until more information is available. 
-  
-  
+ 
+## Boolean Short-Circuiting
+- As of 2018, GMS2 does not utilize boolean short-circuiting. You must use
+  nested IF statements to achieve the performance benefits.
