@@ -16,7 +16,7 @@ develop data structures. In particular, it lacks lightweight objects (for the
 moment, anyway). However- it does have a few built-in data structures,
 including dynamic arrays and lists, as well as buffers, which can be used 
 similarly. Of course, using these structures in this way demands caution 
-of any programmer so attempting; in absence of a formal way to an object 
+of any programmer so attempting; in absence of a formal way to bind an object 
 to its type, or operations to data, one must lean on strong conventions 
 to minimize error.
 
