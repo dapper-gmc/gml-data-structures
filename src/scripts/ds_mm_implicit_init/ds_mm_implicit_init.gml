@@ -11,13 +11,10 @@ var mm = argument0;
 
 var buffer = mm[0];
 
-// Ugh, NOW I do need to care about endianness.
-
 buffer_write(buffer, buffer_u32, FENCE);
 buffer_write(buffer, buffer_u32, FENCE);
 
 // Then, we initialize the list pointer to the location of the epilogue tag
-
 mm[@ 1] = 4;
 
 // Finally, we extend the heap.

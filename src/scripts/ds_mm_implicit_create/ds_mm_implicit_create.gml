@@ -40,6 +40,14 @@ mm[0] = buffer;
 // tag.
 mm[1] = WSIZE;
 
+// Another way of doing this would be defining some enum types, and
+// switching based on the type to determine the function.
+mm[MEM_MAN_MALLOC] = ds_mm_implicit_malloc;
+mm[MEM_MAN_REALLOC] = ds_mm_implicit_realloc;
+mm[MEM_MAN_FREE] = ds_mm_implicit_free;
+mm[MEM_MAN_READ] = ds_mm_implicit_read;
+mm[MEM_MAN_WRITE] = ds_mm_implicit_write;
+
 ds_mm_implicit_init(mm);
 
 return mm;

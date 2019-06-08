@@ -5,7 +5,9 @@ time_func(benchmark_array_alloc_reverse);
 
 time_func(benchmark_array_create);
 time_func(benchmark_array_create_append);
+time_func(benchmark_array_create_init_append);
 time_func(benchmark_array_create_reverse);
+time_func(benchmark_array_create_init_reverse);
 
 time_func(benchmark_buffer_grow_u8_append);
 time_func(benchmark_buffer_grow_u16_append);

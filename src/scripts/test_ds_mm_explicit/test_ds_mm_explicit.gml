@@ -1,0 +1,1 @@
+test_ds_mm_explicit_malloc();

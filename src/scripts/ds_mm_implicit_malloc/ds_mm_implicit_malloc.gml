@@ -36,4 +36,4 @@ if handle == undefined {
 // Then, place the block in the right place and possibly split
 ds_mm_implicit_place(mm, handle, awords);
 
-return handle;
+return handle + WSIZE;

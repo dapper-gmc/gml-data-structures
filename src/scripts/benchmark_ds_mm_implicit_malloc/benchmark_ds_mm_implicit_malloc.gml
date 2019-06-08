@@ -4,6 +4,10 @@ var _t = get_timer();
 
 //for (i = 0; i < 1; i++) {
 	ds_mm_implicit_malloc(mm, 4);
+	ds_mm_implicit_malloc(mm, 4);
+	ds_mm_implicit_malloc(mm, 4);
+	ds_mm_implicit_malloc(mm, 4);
+	ds_mm_implicit_malloc(mm, 4);
 //}
 
 show_debug_message(
