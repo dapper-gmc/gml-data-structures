@@ -1,1 +1,1 @@
-run_suite();
+run_benchmark_suite();

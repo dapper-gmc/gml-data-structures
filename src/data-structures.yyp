@@ -3340,7 +3340,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\/run_suite\/run_suite.yy",
+                "resourcePath": "scripts\/run_benchmark_suite\/run_benchmark_suite.yy",
                 "resourceType": "GMScript"
             }
         },
